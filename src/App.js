@@ -38,6 +38,7 @@ class App extends Component {
                   <CovidApp
                     setDarkMode={this.setDarkMode}
                     isDarkMode={this.state.isDarkMode}
+                    // ssds
                   />
                 )}
               />
